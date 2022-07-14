@@ -6,7 +6,7 @@ All the scripts as well as the datasets are available at https://zenodo.org/reco
 
 It is worth noting that these scripts also comprise the pipeline to automatically preprocess EEG signals
 
-Use main.m to preprocess the EEG signals. You must have EEGLAB folder in the same directory. The code was developed using EEGLAB 2019.
+Use process_set_data.m to preprocess the EEG signals. You must have EEGLAB folder in the same directory. The code was developed using EEGLAB 2019.
 
 In the case you use these scripts, cite one of the following manuscripts:
 
